@@ -13,4 +13,4 @@ As this is a user script, you have to install the ad hoc browser extension first
 
 Then, just visit the user script URL :
 
-<https://github.com/juba/ddg2kagi/raw/master/ddg2kagi.user.js>
+<https://github.com/juba/ddg2kagi/raw/main/ddg2kagi.user.js>
